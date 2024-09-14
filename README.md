@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elvin</h1>
 <h3 align="center">Java Developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security**
+- 🌱 I’m currently learning **programming**
 
 - 💬 Ask me about **Java**
 
